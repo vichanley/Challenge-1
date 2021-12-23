@@ -6,3 +6,5 @@
 --Added accessible alt attributes for images
 --Changed CSS file selectors and properties to follow semantic structure
 --Added CSS file comments 
+
+URL deployed application: https://vichanley.github.io/Challenge-1/
